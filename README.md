@@ -23,7 +23,7 @@ Check for your file in https://github.com/<Your-Github-Username>/gitandgithub   
 
 
 
-# Windows Users with Visyal Studio Code
+# Windows Users with Visual Studio Code
 
 1. Install https://code.visualstudio.com/ 
 
