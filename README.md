@@ -13,7 +13,7 @@ https://github.com/sarithdm/gitandgithub
 
 2.  Clone repository
 
-https://github.com/<Your-Github-Username>/gitandgithub
+https://github.com/Your-Github-Username/gitandgithub
 
 3. Run following commands
     git add .                                                                                                                                                               git commit -m "My Work"                                                                                                                                                 git push                                                                                                                                                                                                                                                                                                                                     5. You will be asked to authenticate     
@@ -29,7 +29,7 @@ Check for your file in https://github.com/<Your-Github-Username>/gitandgithub   
 
 2.  Clone repository
 
-https://github.com/<Your-Github-Username>/gitandgithub                                                                                                                                                                                                                                                                                          3. You can add new file to your repository and save. E.g mywork.py
+https://github.com/Your-Github-Username/gitandgithub                                                                                                                                                                                                                                                                                          3. You can add new file to your repository and save. E.g mywork.py
 
 4. Click on Terminal and run following commands
 
