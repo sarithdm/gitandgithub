@@ -24,7 +24,7 @@ https://github.com/Your-Github-Username/gitandgithub
 4. You will be asked to authenticate     
 
 Enter username and password of Github account.
-Check for your file in https://github.com/<Your-Github-Username>/gitandgithub                                                                                  
+Check for your file in https://github.com/Your-Github-Username/gitandgithub                                                                                  
 If you are able to see it, Prerequisites is completed     
 
 
@@ -50,5 +50,5 @@ Option 1: Directly sign in with browser
 Option 2: Got to Settings > Developer settings > Personal access tokens
 
 Create a new token and paste it. Sample token: 6fb2c630d21081f4ec55adbb813a72a9968ex6e9
-Check for your file in https://github.com/<Your-Github-Username>/gitandgithub 
+Check for your file in https://github.com/Your-Github-Username/gitandgithub 
 If you are able to see it, Prerequisites is completed 
