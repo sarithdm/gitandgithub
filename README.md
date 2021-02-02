@@ -8,18 +8,24 @@ https://github.com/sarithdm/gitandgithub
 # Linux Users/Linux users with Windows Subsystem for Linux 
 1. Install git
 
-   sudo apt update
-   sudo apt install git
+         sudo apt update
+         sudo apt install git
 
 2.  Clone repository
 
 https://github.com/Your-Github-Username/gitandgithub
 
 3. Run following commands
-    git add .                                                                                                                                                               git commit -m "My Work"                                                                                                                                                 git push                                                                                                                                                                                                                                                                                                                                     5. You will be asked to authenticate     
+
+         git add .                              
+         git commit -m "My Work"               
+         git push                                             
+               
+4. You will be asked to authenticate     
 
 Enter username and password of Github account.
-Check for your file in https://github.com/<Your-Github-Username>/gitandgithub                                                                                           If you are able to see it, Prerequisites is completed     
+Check for your file in https://github.com/<Your-Github-Username>/gitandgithub                                                                                  
+If you are able to see it, Prerequisites is completed     
 
 
 
@@ -29,13 +35,14 @@ Check for your file in https://github.com/<Your-Github-Username>/gitandgithub   
 
 2.  Clone repository
 
-https://github.com/Your-Github-Username/gitandgithub                                                                                                                                                                                                                                                                                          3. You can add new file to your repository and save. E.g mywork.py
+https://github.com/Your-Github-Username/gitandgithub                                                                                                                                                                                                                                                                                      
+3. You can add new file to your repository and save. E.g mywork.py
 
 4. Click on Terminal and run following commands
 
-   git add .
-   git commit -m "My Work" 
-   git push
+         git add .
+         git commit -m "My Work" 
+         git push
 
 5. You will be asked to authenticate
 
