@@ -13,9 +13,9 @@ https://github.com/sarithdm/gitandgithub
 
 2.  Clone repository
 
-https://github.com/Your-Github-Username/gitandgithub
+         git clone https://github.com/Your-Github-Username/gitandgithub.git
 
-3. Run following commands
+3. Go to the directory gitandgithub, add a sample file and run following commands
 
          git add .                              
          git commit -m "My Work"               
@@ -35,10 +35,12 @@ If you are able to see it, Prerequisites is completed
 
 2.  Clone repository
 
-https://github.com/Your-Github-Username/gitandgithub                                                                                                                                                                                                                                                                                      
+         git clone https://github.com/Your-Github-Username/gitandgithub.git
+
+                                                                                                 
 3. You can add new file to your repository and save. E.g mywork.py
 
-4. Click on Terminal and run following commands
+4. Go to the directory gitandgithub, add a sample file and run following commands
 
          git add .
          git commit -m "My Work" 
