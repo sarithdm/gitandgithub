@@ -1,7 +1,8 @@
 # CUSAT Workshop
 # Prerequisites
 
-Signup for https://github.com/ and fork below repository 
+- Signup for https://github.com/ 
+- [Fork below repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) 
 
 https://github.com/sarithdm/gitandgithub 
 
