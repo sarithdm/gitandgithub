@@ -6,3 +6,5 @@
 | Learning the technologies for the research| 12 months | November 2021 |
 | Implementation of research| 12 months | November 2023 |
 | Testing of research work and writing thesis| 12 months | November 2024 |
+
+
